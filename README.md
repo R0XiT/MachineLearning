@@ -2,8 +2,7 @@
 
 An end-to-end Machine Learning application for **Freight Cost Prediction** and **Invoice Risk Assessment**, built using **Python, Scikit-learn, SQLite, and Streamlit**.
 
-🚀 **Live Demo:** *Add your Streamlit URL here*
-📂 **Repository:** *Add your GitHub repository URL here*
+🚀 **Live Demo:** "https://machinelearning-km2muy3d4kfxx3y6jyptdw.streamlit.app/"
 
 ---
 
@@ -210,48 +209,4 @@ streamlit run app.py
 
 ---
 
-## 🎯 Business Impact
-
-| Benefit | Description |
-|---|---|
-| 📉 Cost Forecasting | Improved freight cost prediction accuracy |
-| 🚨 Risk Detection | Early identification of abnormal invoices |
-| 📄 Reduced Manual Work | Fewer invoices requiring manual verification |
-| ⚡ Faster Operations | Streamlined finance workflows |
-| 💰 Cost Visibility | Better insight into freight and invoice costs |
-
----
-
-## 📷 Application Preview
-
-> Add screenshots of:
-> - Home Page
-> - Freight Cost Prediction
-> - Invoice Risk Prediction
-
----
-
-## 🔮 Future Improvements
-
-- [ ] Explainable AI using SHAP
-- [ ] Model monitoring dashboard
-- [ ] Cloud database integration
-- [ ] User authentication
-- [ ] Batch invoice prediction
-- [ ] REST API deployment using FastAPI
-
----
-
-## 👨‍💻 Author
-
-**Rohit Ranjan**
-
-B.Tech, Mechanical Engineering — Indian Institute of Technology Indore
-
-*Interested in Machine Learning, Data Analytics, and Backend Development.*
-
----
-
-## ⭐ Support
-
-If you found this project useful, please consider giving the repository a ⭐ on GitHub!
+useful, please consider giving the repository a ⭐ on GitHub!
